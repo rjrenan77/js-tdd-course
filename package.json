@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "library of tdd-course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjrenan77/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Renan Soares <contato@renansoares.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjrenan77/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/rjrenan77/js-tdd-course#readme"
+}
